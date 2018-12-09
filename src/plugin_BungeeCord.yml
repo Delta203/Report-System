@@ -1,0 +1,5 @@
+name: ReportSystem_BungeeCord
+version: 1.1
+author: Delta203
+
+main: de.reportsystem.delta203.bungee.ReportSystem

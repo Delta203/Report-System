@@ -1,0 +1,11 @@
+name: ReportSystem_Bukkit
+version: 1.1
+author: Delta203
+
+main: de.reportsystem.delta203.bukkit.ReportSystem
+
+commands:
+  report:
+       description: ReportSystem
+  reportgui:
+       description: ReportSystem
